@@ -7,6 +7,9 @@
 
 # Arquivos de saída
 COMPRAS_PRONTAS_GPU.xlsx
+vision_*.csv
+vision_*.txt
+vision_*.json
 
 # Arquivos Excel originais (dados sensíveis)
 saldo_presos-*.xlsx
